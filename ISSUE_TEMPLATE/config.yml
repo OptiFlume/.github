@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a bug or ask a question about OptiFlume
+    url: https://github.com/optiflume/feedback/issues/new/choose
+    about: All reports, requests and questions go to the feedback repository.
+  - name: Security issue
+    url: https://optiflume.ai/security
+    about: Please do not open a public issue; email security@optiflume.ai.
+  - name: Account or billing
+    url: https://optiflume.ai/support
+    about: Anything about your account, subscription or invoice, in private.
